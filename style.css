@@ -1,0 +1,24 @@
+
+body {
+background-color:#FFC8DD;
+color:#0D5C63;
+}
+
+h1, .centralizar {
+text-align: center;
+}
+
+.button {
+background-color:#FFAFCC;
+color:#44A1A0;
+text-decoration: none;
+padding: 10px 30px;
+text-align: center;
+}
+
+img { 
+border-radius: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
