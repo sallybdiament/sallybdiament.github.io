@@ -2,6 +2,8 @@
 body {
 background-color:#FFC8DD;
 color:#0D5C63;
+font-family: sans-serif;
+margin-left: 20px;
 }
 
 h1, .centralizar {
@@ -21,4 +23,30 @@ border-radius: 100%;
 display: block;
 margin-left: auto;
 margin-right: auto;
+}
+
+.lado-a-lado {
+    display: inline-block;
+    padding: 30px 10px;
+    vertical-align: middle;
+line-height: 20px;
+text-align: justify;
+}
+
+.sobre-mim {
+    width: 50%;
+}
+
+.fundo-da-foto {
+
+background-color: #0D5C63;
+}
+
+.habilidades-e-curiosidades li:nth-of-type(odd) {
+background-color: #0D5C63;
+color: white;
+}
+
+.habilidades-e-curiosidades {
+   padding: 30px 10px 20px 0;
 }
