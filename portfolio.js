@@ -1,6 +1,6 @@
 window.onload = inConstruction
 
 function inConstruction() {
-    alert("Estou construindo minha página.");
+    alert("Esta página está sendo construída em HTML, CSS e Javascript. Estou constantemente melhorando e corrigindo a página.");
 
 }

@@ -18,21 +18,21 @@ line-height: 20px;
 text-align: justify;
 }
 
+.button {
+    background-color:#FFAFCC;
+    color:#44A1A0;
+    text-decoration: none;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 15px;
+    }
+
 .barra-menu {
     background-color: rgb(119, 113, 113);
 color:#20adab;
 text-decoration: none;
-padding: 10px 0px;
 text-align: center;
 font-size: 20px;
-}
-
-.button {
-background-color:#FFAFCC;
-color:#44A1A0;
-text-decoration: none;
-padding: 10px 30px;
-text-align: center;
 }
 
 img { 
@@ -48,27 +48,27 @@ margin-right: auto;
     vertical-align: middle;
 line-height: 20px;
 text-align: justify;
-margin-left: 70px;
+margin-left: 20px;
 }
 
 .sobre-mim {
-    width: 50%;
+    width: 65%;
 }
 
 .fundo-da-foto {
-
 background-color: #0D5C63;
-}
-
-.habilidades-e-curiosidades li:nth-of-type(odd) {
-background-color: #0D5C63;
-color: white;
-}
-
-.habilidades-e-curiosidades {
-   padding: 30px 10px 20px 0;
+padding: 1px;
 }
 
 .lista-cv {
     line-height: 30px;
+}
+.curriculo-completo {
+line-height: 30px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 80px;
 }
